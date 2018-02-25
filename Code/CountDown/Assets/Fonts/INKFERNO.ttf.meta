@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 22ad7bfeb6f92cd4380b6021c072ce5e
+timeCreated: 1519560769
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: INKFERNO
+  fontNames:
+  - INKFERNO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
